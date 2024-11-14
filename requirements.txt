@@ -1,0 +1,6 @@
+blinker==1.9.0
+click==8.1.7
+Flask==3.0.3
+itsdangerous==2.2.0
+somepackage==1.2.3
+Werkzeug==3.1.3
